@@ -1,0 +1,7 @@
+# No external dependencies.
+# This project uses only the Python standard library
+# (json, argparse, os, datetime, unittest).
+#
+# This file is included so tooling/CI that expects a requirements.txt
+# (e.g. `pip install -r requirements.txt`) still works — there's simply
+# nothing to install.
